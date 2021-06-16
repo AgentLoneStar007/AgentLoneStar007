@@ -5,9 +5,11 @@ I like gaming, I like making and editing videos, and
 I like programming.
 
 Speaking of which, I program in HTML, CSS, JS, and Python.
-I hope to eventually add Java and C or C# to my reputar.
+I'm currently learning C++, and I'm going to start working
+a bit in Unreal Engine for game design on a team project.
+I hope to eventually add Java to my reputar.
 
 My Reddit: https://www.reddit.com/user/RobCo-Industries (good way to contact me)
 My Twitter: https://twitter.com/YaBoiAgent
 My YouTube: https://www.youtube.com/channel/UC9M6PQlY2ZFj1wC_j09nwAQ
-My Discord: AgentLoneStar007#4489
+My Discord: AgentLoneStar007#4489 (creepy but also good way to contact me)
