@@ -1,15 +1,16 @@
-My gamertag is AgentLoneStar007, or Agent for short. 
-I'm a Christian, I love computers, and anything to 
-do with them, I like complex things, I like space, 
-I like gaming, I like making and editing videos, and
-I like programming.
+I'm an evangelical disciple of Jesus, and I love computers, 
+math, physics, most things complicated, programming, gaming,
+and editing videos for my YouTube channel.
+Profile picture by Ravencross15#5469.
 
-Speaking of which, I program in HTML, CSS, JS, and Python.
-I'm currently learning C++, and I'm going to start working
-a bit in Unreal Engine for game design on a team project.
-I hope to eventually add Java to my reputar.
+I know HTML, CSS, JS, Python, Java, and C++.
+I have a bit of experience with Unreal Engine
+and Blender, but more with the latter.
 
-My Reddit: https://www.reddit.com/user/RobCo-Industries (good way to contact me)
+My Reddit: https://www.reddit.com/user/RobCo-Industries
 My Twitter: https://twitter.com/YaBoiAgent
 My YouTube: https://www.youtube.com/channel/UC9M6PQlY2ZFj1wC_j09nwAQ
-My Discord: AgentLoneStar007#4489 (creepy but also good way to contact me)
+My Discord: AgentLoneStar007#4489 (creepy but best way to contact me)
+
+Please note I only accept friend requests if I have no relationship
+whatsoever to the sender(mutual servers, mutual friends, etc.).
