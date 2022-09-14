@@ -110,7 +110,7 @@ but not actively used it. Five stars means I use it constantly and am very confi
   <details>
     <summary>More Info</summary>
     <br>
-    I mark this at to be determined due to the fact I'm still taking a<br>
+    I mark this as to be determined due to the fact I'm still taking a<br>
     couse on MySQL.
   </details>
   
