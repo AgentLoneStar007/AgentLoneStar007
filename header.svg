@@ -3,10 +3,14 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
 
       <style>
-        /* your CSS */
+        img {
+          border-radius: 50%;
+        }
       </style>
-
-      <!-- your HTML -->
+      
+      <div id="header-pfp" align="center">
+        <img src="/assets/profile-pic.png" width="100"/>
+      </div>
 
     </div>
   </foreignObject>
