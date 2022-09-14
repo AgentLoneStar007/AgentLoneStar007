@@ -151,3 +151,9 @@ but not actively used it. Five stars means I use it constantly and am very confi
 Check the links at the top of this page. The best way to contact me would be either
 Discord or Matrix.
 
+I should accept friend requests on Matrix, but I will not accept friend requests on Discord
+if the account has any relation(servers or friends in common) to me allowing them to DM me
+without friending me.
+
+If you do not message me within three days of friending me on Discord, I will unfriend you.
+
