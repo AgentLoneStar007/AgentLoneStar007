@@ -44,7 +44,7 @@ with my best fried Ravencross15(has Github profile, but doesn't use it really, s
 ### Experience in Languages/Softwares
 Below I have listed my experience in individual languages and programming-related items.
 Next to them is a 1-5 star rating of my confidence using the item. One star means I have learned it,
-but not actively used it. Five stars means I use it constantly and am very confident using it.
+but don't actively use it. Five stars means I use it constantly and am very confident using it.
 
 <br>
 
