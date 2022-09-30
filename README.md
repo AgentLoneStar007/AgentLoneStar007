@@ -46,6 +46,9 @@ Below I have listed my experience in individual languages and programming-relate
 Next to them is a 1-5 star rating of my confidence using the item. One star means I have learned it,
 but don't actively use it. Five stars means I use it constantly and am very confident using it.
 
+A :mortar_board: after the star listing means I am officialy certified in that item, regardless of
+my experience.
+
 <br>
 
 <div id="experience-icons">
@@ -59,7 +62,7 @@ but don't actively use it. Five stars means I use it constantly and am very conf
     user, but I do know my way around the terminal/shell.
   </details>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="50" height="50"/>:star::star::star::star::star:
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="50" height="50"/>:star::star::star::star::star::mortar_board:
   <details>
     <summary>More Info</summary>
     <br>
@@ -68,7 +71,7 @@ but don't actively use it. Five stars means I use it constantly and am very conf
     of a different language.
   </details>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/>:star::star::star:
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/>:star::star::star::mortar_board:
   <details>
     <summary>More Info</summary>
     <br>
@@ -76,14 +79,14 @@ but don't actively use it. Five stars means I use it constantly and am very conf
     of creating super-simple websites using them.
   </details>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" width="50" height="50"/>:star::star::star:
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" width="50" height="50"/>:star::star::star::mortar_board:
   <details>
     <summary>More Info</summary>
     <br>
     See HTML More Info.
   </details>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="50" height="50"/>:star:
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="50" height="50"/>:star::mortar_board:
   <details>
     <summary>More Info</summary>
     <br>
@@ -91,7 +94,7 @@ but don't actively use it. Five stars means I use it constantly and am very conf
     ton of Googling), but I hate it. Don't ask me to use it.
   </details>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" width="50" height="50"/>:star::star:
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" width="50" height="50"/>:star::star::mortar_board:
   <details>
     <summary>More Info</summary>
     <br>
@@ -144,6 +147,15 @@ but don't actively use it. Five stars means I use it constantly and am very conf
     I recently learned the power of Docker when attempting to create<br>
     a MariaDB container. Since then I have learned the power of the<br>
     wonderful Docker.
+  </details>
+  
+ <strong>Cyber Security</strong> :closed_lock_with_key:<br>
+ :star::star::star::mortar_board:
+  <details>
+    <summary>More Info</summary>
+    <br>
+    I took a course on cyber security a while back on W3Schools, so I<br>
+    thought I'd mention it here.
   </details>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/google/google-original.svg" width="50" height="50"/> :star::star::star::star::star:
