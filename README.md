@@ -71,6 +71,16 @@ my experience.
     of a different language.
   </details>
   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/lua/lua-original-wordmark.svg" width="50" height="50"/>:star:
+  <details>
+    <summary>More Info</summary>
+    <br>
+    I've worked with Lua before because I made a few Garry's Mod addons,<br>
+    but I've never taken a course on it. The only experience I have is<br>
+    just some Googling. Due to it's simple syntax, however, I would be<br>
+    comfortable using it for a project.
+  </details>
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/>:star::star::star::mortar_board:
   <details>
     <summary>More Info</summary>
@@ -180,7 +190,7 @@ If you do not message me within three days of friending me on Discord, I will un
 Another good form of contact is my email: `contactagent.3gxdf@simplelogin.com` (Alias of my
 real email, obviously.)
 
-If you need to encrypt the email, for some reason, here's my public PGP key:
+If you need to encrypt the email for some reason, here's my public PGP key:
 <details>
 <summary>PGP Key</summary>
 <br>
