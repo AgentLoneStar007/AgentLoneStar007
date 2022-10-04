@@ -135,6 +135,14 @@ my experience.
     couse on MongoDB and data analytics.
   </details>
   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/> TBD
+  <details>
+    <summary>More Info</summary>
+    <br>
+    I mark this as to be determined due to the fact I'm still taking a<br>
+    couse on Pandas and data analytics.
+  </details>
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> :star::star::star:
   <details>
     <summary>More Info</summary>
