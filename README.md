@@ -127,20 +127,20 @@ my experience.
     couse on MySQL and data analytics.
   </details>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/> TBD
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/> :start:
   <details>
     <summary>More Info</summary>
     <br>
-    I mark this as to be determined due to the fact I'm still taking a<br>
-    couse on MongoDB and data analytics.
+    Technically I am certified in this, but it's a sub-certification<br>
+    of Python. (MongoDB was taught in the Python course.)
   </details>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/> TBD
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/> :star::star::mortar_board:
   <details>
     <summary>More Info</summary>
     <br>
-    I mark this as to be determined due to the fact I'm still taking a<br>
-    couse on Pandas and data analytics.
+    Not much information to give, besides I'm certified in it and have<br>
+    some minor experience in Pandas.
   </details>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> :star::star::star:
