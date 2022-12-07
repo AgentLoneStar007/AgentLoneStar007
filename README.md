@@ -127,7 +127,7 @@ my experience.
     couse on MySQL and data analytics.
   </details>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/> :start:
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/> :star:
   <details>
     <summary>More Info</summary>
     <br>
@@ -143,6 +143,14 @@ my experience.
     some minor experience in Pandas.
   </details>
   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original-wordmark.svg" width="50" height="50"/> :star:
+  <details>
+    <summary>More Info</summary>
+    <br>
+    Not much information to give besides I've dealt with Numpy<br>
+    and will soon be certified in it.
+  </details>
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> :star::star::star:
   <details>
     <summary>More Info</summary>
@@ -156,6 +164,15 @@ my experience.
     <br>
     I will slowly but surely get more and more experience in Unreal Engine,<br>
     but for now I will leave it at two stars.
+  </details>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain-wordmark.svg" width="50" height="50"/> :star::star::star:
+  <details>
+    <summary>More Info</summary>
+    <br>
+    I don't have a lot of experience with the Git commandline, but<br>
+    I do know my way around Github and Git in general. I mainly use<br>
+    Gitkraken for my visual Git client due to it's Linux compatibility.
   </details>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" width="50" height="50"/> :star::star::star:
