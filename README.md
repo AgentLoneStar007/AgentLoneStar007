@@ -147,8 +147,8 @@ my experience.
   <details>
     <summary>More Info</summary>
     <br>
-    I may be certified in it, but learning it was the most mind-numbing<br>
-    experience in my life. I would rather make an OS in Javascript than<br>
+    Learning NumPy was the most mind-numbing experience in my life.<br>
+    I would rather make an OS in Javascript than<br>
     use NumPy for a project.
   </details>
   
