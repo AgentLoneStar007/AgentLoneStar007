@@ -143,7 +143,7 @@ my experience.
     some minor experience in Pandas.
   </details>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original-wordmark.svg" width="50" height="50"/> :star:
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original-wordmark.svg" width="50" height="50"/> :star::mortar_board:
   <details>
     <summary>More Info</summary>
     <br>
