@@ -147,8 +147,9 @@ my experience.
   <details>
     <summary>More Info</summary>
     <br>
-    Not much information to give besides I've dealt with Numpy<br>
-    and will soon be certified in it.
+    I may be certified in it, but learning it was the most mind-numbing<br>
+    experience in my life. I would rather make an OS in Javascript than<br>
+    use NumPy for a project.
   </details>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> :star::star::star:
