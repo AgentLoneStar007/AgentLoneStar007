@@ -159,11 +159,11 @@ my experience.
     I learned C++ to work on The Aetheria Project, made in Unreal Engine.
   </details>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" width="50" height="50"/> TBD
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" width="50" height="50"/> :star::star::star::mortar_board:
   <details>
     <summary>More Info</summary>
     <br>
-    Currently learning C# because why not. Might as well learn all the C's.
+    C# is relatively simple and I would be confident using it in a project.
   </details>
   
   <img src="/assets/unreal-engine-logo.png" width="50" height="50"/> :star::star:
