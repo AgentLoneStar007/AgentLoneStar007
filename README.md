@@ -67,7 +67,7 @@ my experience.
     <summary>More Info</summary>
     <br>
     Python is the first language I ever learned, way back since 2015.<br>
-    I've used it for pretty much everything that doesn't recquire use<br>
+    I've used it for pretty much everything that doesn't require use<br>
     of a different language.
   </details>
   
@@ -77,8 +77,8 @@ my experience.
     <br>
     I've worked with Lua before because I made a few Garry's Mod addons,<br>
     but I've never taken a course on it. The only experience I have is<br>
-    just some Googling. Due to it's simple syntax, however, I would be<br>
-    comfortable using it for a project.
+    just some Googling. Due to it's simple syntax, however, it would probably<br>
+    be easy to use and learn along the way.
   </details>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/>:star::star::star::mortar_board:
