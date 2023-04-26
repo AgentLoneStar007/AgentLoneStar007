@@ -152,7 +152,7 @@ my experience.
     use NumPy for a project. (Impossible, I know; shush.)
   </details>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> :star::star::star:
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> :star::star:
   <details>
     <summary>More Info</summary>
     <br>
@@ -164,6 +164,14 @@ my experience.
     <summary>More Info</summary>
     <br>
     C# is relatively simple and I would be confident using it in a project.
+  </details>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="50" height="50"/> :star::star:
+  <details>
+    <summary>More Info</summary>
+    <br>
+    C is way less complex than I expected. I would be confident in using it for smaller projects,<br>
+    but maybe not for large-scale systems.
   </details>
   
   <img src="/assets/unreal-engine-logo.png" width="50" height="50"/> :star::star:
