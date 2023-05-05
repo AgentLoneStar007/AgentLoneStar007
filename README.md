@@ -187,8 +187,7 @@ my experience.
     <summary>More Info</summary>
     <br>
     I don't have a lot of experience with the Git commandline, but<br>
-    I do know my way around Github and Git in general. I mainly use<br>
-    Gitkraken for my visual Git client due to it's Linux compatibility.
+    I do know my way around Github and Git in general.
   </details>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" width="50" height="50"/> :star::star::star:
