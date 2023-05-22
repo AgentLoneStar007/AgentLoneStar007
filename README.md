@@ -30,9 +30,8 @@
 
 <!--Body-->
 ### About Me
-Hi. I'm AgentLoneStar007, or Agent, for short. I'm an evangelical disciple of Jesus, and I
-love computers and pretty much anything to do with them; especially networking. I pretty much
-love anything supporting an electric current(although I'm not overly fond of website development).
+Hi. I'm AgentLoneStar007, or Agent, for short. I love computers and pretty much anything to do with them; especially networking.
+I pretty much love anything supporting an electric current(although I'm not overly fond of website development).
 
 I also love science, chemistry, math, physics, and most things complicated.
 Oh, and I hate philosophy. 
