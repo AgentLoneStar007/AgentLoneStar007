@@ -198,21 +198,13 @@ my experience.
     wonderful Docker.
   </details>
   
- <strong>Cyber Security</strong> :closed_lock_with_key:<br>
+ Cyber Security :closed_lock_with_key:<br>
  :star::star::star::mortar_board:
   <details>
     <summary>More Info</summary>
     <br>
     I took a course on cyber security a while back on W3Schools, so I<br>
     thought I'd mention it here.
-  </details>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/google/google-original.svg" width="50" height="50"/> :star::star::star::star::star:
-  <details>
-    <summary>More Info</summary>
-    <br>
-    Like all other developers, I am very capable of searching Google<br>
-    for solutions to my programming problems.
   </details>
 </div>
 
